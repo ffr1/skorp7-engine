@@ -24,10 +24,14 @@ This is an alpha: expect rough edges, and keep copies of your projects.
 
 Windows 10 or 11, 64-bit, and a graphics card with OpenGL 3.3.
 
+## Plugins
+
+Anyone can make plugins, in any language, and post or share them however they like. It costs nothing and you owe nothing. A plugin is a folder with a small `plugin.json` and your program or script; its commands show up in the Plugins menu, and it works through the same local API as the AIs. Plugins stay off until you turn them on.
+
 ## License
 
-Free to use, including for commercial work, and what you make with it is yours. You may study, reverse engineer and modify it for yourself.
+Free to use, including for commercial work, and what you make with it is yours. Reverse engineering and redistributing the engine are not allowed. Plugins are free to make and distribute.
 
 Games and apps may ship the engine's runtime files. A game or app with a budget of GBP 100,000 or less pays nothing, ever. A bigger one pays 2.8% only on its revenue above its first GBP 500,000, and nothing is reported before that. Films, renders, assets and services pay nothing. No credit or splash screen is required.
 
-You may not redistribute the engine or its editor on their own, modified or not. See [LICENSE](LICENSE) for the full terms, which no lawyer has reviewed yet. The libraries it includes keep their own licences, listed in THIRD_PARTY_NOTICES.md.
+See [LICENSE](LICENSE) for the full terms, which no lawyer has reviewed yet. The libraries it includes keep their own licences, listed in THIRD_PARTY_NOTICES.md.
