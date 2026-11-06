@@ -14,7 +14,7 @@ This is an alpha: expect rough edges, and keep copies of your projects.
 
 **Your game.** Walk your scene in first person from the editor, then File > Package Game makes a folder anyone can play without the engine. A project can also start your own game program with Play.
 
-**AIs work beside you.** The engine runs a local API, on your computer only. Press Copy AI prompt, paste it into Codex or any other AI coding assistant, and it connects to the scene you have open. Each AI gets its own mouse, keyboard, selection and clipboard inside the engine, so several AIs and you can work at once and your own mouse is never touched. You see each AI's pointer with its name. A text box an AI is typing in is locked for you, and the same goes the other way. Undo is shared, and everything keeps working while the engine is minimised.
+**AIs work beside you.** The engine runs a local API, on your computer only. Press Copy AI prompt, paste it into any AI coding assistant, and it connects to the scene you have open. Each AI gets its own mouse, keyboard, selection and clipboard inside the engine, so several AIs and you can work at once and your own mouse is never touched. You see each AI's pointer with its name. A text box an AI is typing in is locked for you, and the same goes the other way. Undo is shared, and everything keeps working while the engine is minimised.
 
 **AIs can ask you things.** When an AI needs a decision, a question window stays on top until you press a key, and your answer goes straight back to it.
 
